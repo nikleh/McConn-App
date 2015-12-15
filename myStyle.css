@@ -1,0 +1,114 @@
+/** General **/
+body{
+	max-width:1240px;
+	min-width:800px;
+}
+/** Navigation Bar **/
+#brand{
+	width: 90px;
+	height:60px;
+	margin-right:10px;
+	margin-left:5px;
+	margin-top:10px;
+}
+
+.navbar a{
+	margin-top:20px;
+	margin-bottom:-20px;
+}
+
+.navbar a:hover{
+	color:black;
+}
+
+/** Home Page **/
+#myCarousel{
+	margin-left:20%;
+	margin-top:100px;
+}
+
+.hours{
+	text-align:center;
+	margin-left:-7%;
+}
+
+#title{
+	font-size:24px;
+}
+
+
+/** Menu **/
+.caption{
+	height:150px;
+}
+
+
+/** Forms **/
+form{
+	margin-top:30px;
+	margin-left:300px;
+}
+
+.form-group{
+	margin-bottom:20px;
+}
+
+label{
+	margin-right:10px;
+}
+
+h2{
+	margin-top:100px;
+	margin-left:260px;
+}
+
+form button{
+	margin-left:300px;
+}
+
+.signUp{
+	margin-left:100px;
+}
+
+.paddingDown{
+	padding-bottom:20px;
+}
+
+/** Spacing **/
+.marginTop{
+	margin-top:100px;
+}
+
+.marginLeft{
+	margin-left:50px;
+}
+
+.marginLeft img{
+	width:534px;
+	height:534px;
+}
+
+.padR{
+	padding-right:20px;
+}
+
+h4, h3{
+	color:#2E2E2E;
+}
+
+.home img{
+	margin-left:6%;
+	width:547px;
+	height:853px;
+}
+
+.test{
+	width:534px;
+	height:534px;
+}
+
+.crema img{
+	margin-left:11%;
+	width:547px;
+	height:853px;
+}
